@@ -1,4 +1,11 @@
-# MetAlarm
+# Mission Elapsed Time Alarm Android Application 1.0
+
+
+
+
+Developed By: Prathmesh Pardhiye
+
+About:
 You’ve scheduled a busy weekend to try and catch up on schoolwork. 
 Your plan goes something like this: 
 Wake up at 8:00am Drive to campus at 8:30am 
@@ -16,3 +23,8 @@ Should you go update all the alarms?
 Reschedule the 11:00am alarm for 11:40am, the 12:00pm alarm for 12:40pm, the 1:00pm alarm for 1:40pm. 
 Maybe just throw in the towel and cancel them all? 
 The problem is that you may have a plan, but it doesn’t really start until you arrive on campus. 
+
+
+Environment:  This project is built using Android Studio. The UI was developed using XML and Layout style design. Backend coding was done using Java. This application uses SQLite for storing data in the database. Apk version is available.
+To open apk file navigate:
+StudentRecruit\app\build\outputs\apk\debug\app-debug.apk
